@@ -1,7 +1,7 @@
 # PRESENTACION PERSONAL
 
 ## Breve historia de vida
- Mi nombre es Paula Cantera, tengo 21 años. Naci el 31 de mayo de 2002 en Miami Florida. 
+ Mi nombre es Paula Cantera, tengo 21 años. Naci el 31 de mayo de 2002. 
 Soy de Punta del Este y actualmente vivo en Montevideo.
 
 ## Estudios
